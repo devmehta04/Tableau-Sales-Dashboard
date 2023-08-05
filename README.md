@@ -24,9 +24,3 @@ You can customize this dashboard to fit your specific needs by replacing the sam
 ## Feedback
 
 If you have any feedback or suggestions for how we can improve this dashboard, please let us know. We are always looking for ways to make our products better and more useful to our customers.
-
-## License
-
-This dashboard is licensed under the MIT License. You are free to use, modify, and distribute this dashboard as you see fit.
-
-
